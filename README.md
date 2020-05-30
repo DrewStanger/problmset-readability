@@ -1,6 +1,6 @@
-# problmset-readability (PSET2)
+# problmset-readability (PSET2(C) & PSET6 (Python)
 
-Readbility is a C program which can be used to compute the approximate grade level needed to comprehend a passage of text.
+There are two versions of readbility, one is a C program produced for PSET2, the other being a python version produced for PSET6 these can be used to compute the approximate grade level needed to comprehend a passage of text.
 
 This was produced during the completion of Havards CS50 - Introduction to Computer Science.
 
